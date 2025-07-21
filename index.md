@@ -9,7 +9,7 @@
 
 ---
 [App Finanças Pessoal](/pdf/sample_presentation.pdf)
-<img src="images/çogo EDUGERA.jpg?raw=true"/>
+<img src="images/Logo EDUGERA.jpg?raw=true"/>
 
 ---
 [App Contratos](http://example.com/)
