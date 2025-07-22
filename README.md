@@ -29,7 +29,7 @@ Tecnologia: Python / Streamlit
 Descrição: aplicativo para elaboração e gestão de contratos, construído em Python com Streamlit.
 Tecnologia: Python ; Streamlit
 
-<img src="images/demo.png?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
 ## Sobre mim
 Sou um profissional apaixonado por energia sustentável e inovação:
