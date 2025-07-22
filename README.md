@@ -4,7 +4,7 @@ Sou **Eduardo Ferreira**, Business Development Executive na Clean Energy – Ene
 
 ### Projetos Destacados
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/Portfolio _ Eduardo Ferreira da Silva - Google Chrome 2025-07-22 10-36-36.mp4?raw=true"/>
 
 # AnimationsWithManim
 Descrição: Curso de animações usando Manim (fork do projeto do Elteoremadebeethoven).
