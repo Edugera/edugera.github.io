@@ -4,6 +4,8 @@ Sou **Eduardo Ferreira**, Business Development Executive na Clean Energy – Ene
 
 ### Projetos Destacados
 
+<img src="images/demo.gif?raw=true"/>
+
 # AnimationsWithManim
 Descrição: Curso de animações usando Manim (fork do projeto do Elteoremadebeethoven).
 Tecnologia: Python
@@ -27,6 +29,7 @@ Tecnologia: Python / Streamlit
 Descrição: aplicativo para elaboração e gestão de contratos, construído em Python com Streamlit.
 Tecnologia: Python ; Streamlit
 
+<img src="images/demo.gif?raw=true"/>
 
 ## Sobre mim
 Sou um profissional apaixonado por energia sustentável e inovação:
@@ -37,15 +40,19 @@ Especialidades: Power trade, Análise de dados, Modelagem em Excel/SQL, Power BI
 
 ## Contato & Redes Sociais
 ✉️ Email: eduferreira053@gmail.com
+
 🔗 Site: https://edugera.github.io
+
 🐙 GitHub: https://github.com/Edugera
+
 🔗 LinkedIn: www.linkedin.com/in/eduardo-ferreira-mercado-livre
+
 🐦 X (Twitter): cole aqui seu perfil
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+<!-- ### Installation>
+
+<!-- See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).>
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
