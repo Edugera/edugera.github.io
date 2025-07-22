@@ -22,7 +22,9 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p align="center">
+<img src="images/dummy_thumbnail.png?raw=true" width="300"/>
+</p>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
