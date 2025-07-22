@@ -1,9 +1,46 @@
-## Developer Portfolio Landing Page Template
+## Seja muito bem-vindo ao meu portfólio!  
 
-### Introduction
+Sou **Eduardo Ferreira**, Business Development Executive na Clean Energy – Energia Sustentável, com foco em trading de energia elétrica, técnicas analíticas e desenvolvimento de soluções em Excel, SQL, Power BI, Python, Blockchain e Web3.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Projetos Destacados
 
+# AnimationsWithManim
+Descrição: Curso de animações usando Manim (fork do projeto do Elteoremadebeethoven).
+Tecnologia: Python
+
+# EnerTradeZK
+Descrição: Corretora descentralizada de ativos energéticos tokenizados com foco em privacidade e acessibilidade.
+
+Blockchain: Ethereum (Sepolia) + NEAR
+Contratos: Solidity + Hardhat
+Backend: Node.js + Express + SnarkJS
+Frontend: React + Ethers.js
+ZK-Proofs: Circom + SnarkJS
+RPC: Infura
+Carteira: MetaMask
+
+#streamlit-2025
+Descrição: Aplicativo para gestão financeira pessoal, construído em Python com Streamlit.
+Tecnologia: Python / Streamlit
+
+# App Contratos
+Descrição: aplicativo para elaboração e gestão de contratos, construído em Python com Streamlit.
+Tecnologia: Python ; Streamlit
+
+
+## Sobre mim
+Sou um profissional apaixonado por energia sustentável e inovação:
+
+Posição: Business Development Executive @ Clean Energy
+
+Especialidades: Power trade, Análise de dados, Modelagem em Excel/SQL, Power BI, Python, Blockchain e Web3.
+
+## Contato & Redes Sociais
+✉️ Email: eduferreira053@gmail.com
+🔗 Site: https://edugera.github.io
+🐙 GitHub: https://github.com/Edugera
+🔗 LinkedIn: www.linkedin.com/in/eduardo-ferreira-mercado-livre
+🐦 X (Twitter): cole aqui seu perfil
 <img src="images/demo.gif?raw=true"/>
 
 ### Installation
