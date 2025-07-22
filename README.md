@@ -51,7 +51,7 @@ Especialidades: Power trade, Análise de dados, Modelagem em Excel/SQL, Power BI
 
 🔗 LinkedIn: www.linkedin.com/in/eduardo-ferreira-mercado-livre
 
-🐦 X (Twitter): cole aqui seu perfil
+🐦 X (Twitter): https://x.com/eduferreira053
 
 
 <!-- ### Installation>
