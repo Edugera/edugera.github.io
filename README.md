@@ -4,7 +4,7 @@ Sou **Eduardo Ferreira**, Business Development Executive na Clean Energy – Ene
 
 ### Projetos Destacados
 
-<img src="images/Portfolio _ Eduardo Ferreira da Silva - Google Chrome 2025-07-22 10-36-36.mp4?raw=true"/>
+<img src="images/demo.gif?raw=true"/>
 
 # AnimationsWithManim
 Descrição: Curso de animações usando Manim (fork do projeto do Elteoremadebeethoven).
@@ -29,7 +29,7 @@ Tecnologia: Python / Streamlit
 Descrição: aplicativo para elaboração e gestão de contratos, construído em Python com Streamlit.
 Tecnologia: Python ; Streamlit
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/demo.png?raw=true"/>
 
 ## Sobre mim
 Sou um profissional apaixonado por energia sustentável e inovação:
