@@ -5,11 +5,11 @@
 ### Category Blockchain 
 
 [EnertradeZk](/sample_page)
-<img src="images/logo.jpg?raw=true"/>
+<img src="images/logo.jpg?raw=true" width="350"/>
 
 ---
 [App Finanças Pessoal](/pdf/sample_presentation.pdf)
-<img src="images/Logo EDUGERA.jpg?raw=true"/>
+<img src="images/Logo EDUGERA.jpg?raw=true" width="350"/>
 
 ---
 [App Contratos](http://example.com/)
