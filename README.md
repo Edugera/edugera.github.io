@@ -6,11 +6,8 @@ Sou **Eduardo Ferreira**, Business Development Executive na Clean Energy – Ene
 
 <img src="images/demo.gif?raw=true"/>
 
-# AnimationsWithManim
-Descrição: Curso de animações usando Manim (fork do projeto do Elteoremadebeethoven).
-Tecnologia: Python
 
-# EnerTradeZK
+# EnerTradeZK - HACKATHON NearX
 Descrição: Corretora descentralizada de ativos energéticos tokenizados com foco em privacidade e acessibilidade.
 
 Blockchain: Ethereum (Sepolia) + NEAR
@@ -21,13 +18,18 @@ ZK-Proofs: Circom + SnarkJS
 RPC: Infura
 Carteira: MetaMask
 
-#streamlit-2025
-Descrição: Aplicativo para gestão financeira pessoal, construído em Python com Streamlit.
-Tecnologia: Python / Streamlit
+# DASHBOARD - EDUGERA AAA LTDA
+Descrição: Consultoria Comercialização de Energia Elétrica - Dashboard das operações de trading.
+Tecnologia: Excel/ SQL / Power BI
+
+# APLICATIVO - DANIELLE EVENTOS  
+Descrição: Aplicativo para gestão financeira pessoal.
+Tecnologia: Python / Pandas / Streamlit
 
 # App Contratos
 Descrição: aplicativo para elaboração e gestão de contratos, construído em Python com Streamlit.
 Tecnologia: Python ; Streamlit
+
 
 <!-- e para centralizar -->
 <p align="center">
