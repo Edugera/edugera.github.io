@@ -1,4 +1,4 @@
-# Projeto: EnerTradeZK
+# Projeto: EnerTradeZK Link de acesso a plataforma: http://enertrade-zk.vercel.app
 
 **EnerTradeZK** é uma corretora descentralizada de ativos energéticos tokenizados, desenvolvida durante o Hackathon *O Grande Código* da NearX, e vencedora de premiação por inovação.
 
