@@ -5,6 +5,7 @@
 ### Category Blockchain 
 
 [EnertradeZk](pdf/enertradezk.md)
+[Plataforma EnertradeZk](http://enertrade-zk.vercel.app)
 <img src="images/logo.jpg?raw=true" width="350"/>
 
 ---
