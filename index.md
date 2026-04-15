@@ -19,7 +19,7 @@
 
 ### Aplicações Profissionais
 
-- [Project 1 Site Blog]([http://example.com/](https://edugera.com.br/))
+- [Project 1 Site Blog](https://edugera.com.br/)
 - [Project 2 Pitch](http://example.com/)
 
 
