@@ -20,7 +20,7 @@
 ### Aplicações Profissionais
 
 - [Project 1 Site Blog](https://edugera.com.br/)
-- [Project 2 Pitch](http://example.com/)
+- [Project 2 Introdução e-book](pdf/Da-conta-ao-contrato-em-energia_intro.pdf)
 
 
 ---
